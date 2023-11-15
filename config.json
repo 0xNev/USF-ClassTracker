@@ -1,11 +1,10 @@
 {
     "classes":[
-        {
-            "crse":"CGS",
-            "term":null
-        },
-        {
-            
-        }
-    ]
+        {"term":"202401","subj":"CIS","crse":"4622", "camp":"T"},
+        {"term":"202401","subj":"ISM","crse":"4323", "camp":"%"}
+    ],
+    "timeout":60,
+    "delays":[5,300],
+    "webhook":"https://discord.com/api/webhooks/1174141678102261822/pwUkWlPxuMeqgEptxXt8oiGFGqX0ZLlweD9X858Sh-_CWUdZDtPDsTB7TglBw0xW3tQg"
+
 }
